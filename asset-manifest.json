@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/AlgososhPages/static/css/main.2e5819d4.css",
-    "main.js": "/AlgososhPages/static/js/main.c1dc43ed.js",
+    "main.js": "/AlgososhPages/static/js/main.d00a5b57.js",
     "static/js/787.0d1937ff.chunk.js": "/AlgososhPages/static/js/787.0d1937ff.chunk.js",
     "static/media/bg.jpg": "/AlgososhPages/static/media/bg.971318c52485d1963a30.jpg",
     "static/media/arr-hover.svg": "/AlgososhPages/static/media/arr-hover.b8bf27c9f429cdb6bf49.svg",
@@ -19,11 +19,11 @@
     "index.html": "/AlgososhPages/index.html",
     "static/media/loader.svg": "/AlgososhPages/static/media/loader.3560c7ba1c44b9900cfc03ff6ddbe067.svg",
     "main.2e5819d4.css.map": "/AlgososhPages/static/css/main.2e5819d4.css.map",
-    "main.c1dc43ed.js.map": "/AlgososhPages/static/js/main.c1dc43ed.js.map",
+    "main.d00a5b57.js.map": "/AlgososhPages/static/js/main.d00a5b57.js.map",
     "787.0d1937ff.chunk.js.map": "/AlgososhPages/static/js/787.0d1937ff.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2e5819d4.css",
-    "static/js/main.c1dc43ed.js"
+    "static/js/main.d00a5b57.js"
   ]
 }
